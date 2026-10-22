@@ -1,0 +1,10 @@
+﻿example
+appointment
+follow-up
+medication
+patient
+prescription
+diagnosis
+symptoms
+history
+recommendation

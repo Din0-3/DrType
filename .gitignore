@@ -1,0 +1,11 @@
+# 建置產物
+obj/
+bin/
+
+# 執行時產生的個人檔案
+DrType.ini
+error.log
+backup/
+*.tmp
+.write_test
+.DS_Store
