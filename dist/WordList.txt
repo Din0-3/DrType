@@ -1,10 +1,553 @@
-﻿example
-appointment
-follow-up
+﻿symptoms
+tightness
+developed
+fluctuating
+clicking
+ecchymosis
+taut
+sensation
+soreness
+sensory deficit
+morning stiffness
+local
+tenderness
+pain
+limitation
+flexion
+extension
+side bending
+side lying
+dorsiflexion
+plantarflexion
+rotation
+with
+without
+palpation
+progress
+improved
+weakness
+contusion
+vague
+discomfort
+paresthesia
+numbness
+tingling
+burning
+dermatome
+over
+alleviate
+exacerbate
+trauma (-)
+relieved
+recent
+complain
+prolong
+during
+recurred
+radiation
+dizziness
+dural pattern
+eversion
+inversion
+downstairs
+stairs
+symmetrical
+asymmetrical
+subtle
+stiffness
+satisfactory
+unsatisfactory
+erythema
+incontinence
+resume
+elevation
+buckling
+History
+participate
+LMD
+also
+denied
+month
+weeks
+days
+years
+decades
+morning
+afternoon
+night
+resolve
+intermittent
+triggered by
+after
+repeat
+immediate response
+intensity
+forward bending
+refer
+residual
+deteriorated
+spontaneous
+prolonged
+sometimes
+relapsing
+predominant
+FOOSH
+within
+stand
+rest -> action
+unresponsive
+pain-free
+static
+tolerate
+weight lifting
+associate
+traffic accident
+PE
+poorly done
+forceful
+DTR
+dynamic
+TrP
+deficit
+horizontal ABD
+cotton-sensation
+L compression tenderness ()
+relocation ()
+springing test ()
+UMN sign ()
+Hoffmann sign ()
+Babinski sign ()
+Spurling's test ()
+SLRT ()
+Neer's ()
+Hawkins test ()
+painful arc ()
+empty can ()
+O'Brien test ()
+Biceps load ()
+apprehension ()
+anterior apprehension ()
+Phalen test ()
+Tinel sign ()
+Finkelstein test ()
+Thessaly test ()
+TFCC : ulnar fovea sign ()  axial loading pain ()  piano sign ()
+ballottement test: S-L ()
+quadrant test ()
+SI joint test ()
+hump ()
+Watson's test ()
+Yergason's test ()
+neurological signs ()
+Thomas test ()
+McMurray test ()
+drawer test:  ant.(-) / post.(-)
+ant. drawer()
+post. drawer()
+Clarke's test ()
+Cozen's test ()
+ROM
+ROM: ER   |  Flex   |  ABD   | IR
+ROM: fair
+valgus test ()
+varus test ()
+dial test ()
+resisting test ()
+pronation/supination
+supination
+pronation
+end range
+sit to stand
+on toe / on heel
+milking maneuver ()
+ECU synergy test ()
+FABER ()
+FADDIR ()
+windshield wiper test ()
+MT shift test ()
+Froment's sign ()
+Wartenberg's sign ()
+crepitus
+snuff box tenderness()
+valgus test (-) varus test  (-)
+joint line tenderness ()
+squat
+Shoulder abduction relief test ()
+Popeye sign ()
+CV angle percussion()
+belly press ()
+bear hug ()
+NE: UEsensory - C4(ACJ):   | C5(lat. cub):   | C6(thumb):   | C7(M):   | C8(L):   | T1(med. cub):
+NE: LEsensory - L2:   | L3:   | L4:   | L5:   | S1:
+NE: UEmotor - C5(biceps):   | C6(ECR):   | C7(triceps):   | C8(FDP):   | T1(ADQ):
+NE: LEmotor - L5(EHL):    | S1(GN):
+TOS: Adson's-scalene (-)    Eden-bracing (-)     Allen-PecMinor (-)    Roos (-)
+location
+caudal
+proximal
+distal
+contralateral side
+anterolateral
+mid
+midline
+head
+waist
+Rt:  | Lt:
+anterior
+posterior
+lateral
+medial
+palmar
+volar
+dorsal
+ventral
+superior
+upper
+inferior
+cervical
+lumbar
+shoulder
+hip
+elbow
+ankle
+wrist
+knee
+tendon
+ligament
+patella
+facet
+multiple
+finger
+thumb
+PIP
+DIP
+IP joint
+foot
+hand
+radial
+ulnar
+superficial
+deep
+fascia
+articular
+bursal
+epicondyle
+SI joint
+suprapatellar recess
+rotator cuff
+scapula
+buttock
+trunk
+region
+calf
+pillars
+phalanx
+PSIS
+thigh
+clavicle
+neck-shoulder
+active () passive () resisted ()
+coccyx
+groin
+sinus tarsi
+retroscapular
+recess
+forearm
+heel
+forefoot
+Hoffa fat pad
+bone
+ischial tuberosity
+plateau
+retromalleolar
+malleolus
+olecranon
+tuberosity
+retrocalcaneal
+pelvis
+accessory
+joint
+subtalar joint
+CMC
+MCP
+L5S1
+DRUJ
+MTP
+sono
+intact
+rupture
+complete
+increase
+decrease
+trace
+mild
+marked
+moderate
+significant
+insignificant finding
+sono-guided
+sono-palpation tenderness
+aspiration
+injection
+fibrillar pattern
+hyperechoic
+hypoechoic
+isoechoic
+swelling
+SASD
+bursa
+hyperemia
+meniscus
+coronal
+Baker's cyst
+cyst
+ganglion cyst
+fibroma
+fibromatosis
+fibrosis
+scar
+injury
+retinaculum
+subluxation
+effusion
+mass
+underneath
+above
+tendinosis
+partial tear
+full-thickness tear
+thicken
+pulley
+nerve
+osteophyte
+calcification
+muscle
+trapezius
+levator scapulae
+rhomboid
+latissimus dorsi
+biceps
+hamstring
+APL/EPB
+EDC
+ECRB
+GN
+quadriceps
+gluteus
+supraspinatus
+infraspinatus
+subscapularis
+popliteus
+PL/PB
+piriformis
+ATFL
+CFL
+AITFL
+LCL
+MCL
+MPFL
+ACL
+PCL
+deltoid
+plantar fascia
+sacrotuberous lig.
+Achilles tendon
+pes anserinus
+common extensor tendon
+footprint
+aponeurosis
+stability
+others
+CSA
+thoracolumbar fascia
+peroneal
+insertion
+labrum
+normal
+rotator interval
+echotexture
+interspinous ligament
+sciatic nerve
+hydrodilatation
+cubital tunnel
+synovium
+tibial plateau
+calcaneal
+tibialis posterior
+TFCC
+insignificant
+bulging
+origin
+meniscus homologue
+coracoid
+protruding
+hypertrophy
+cartilage
+thinning
+cortical-irregularity
+bedside echo
+median
+sonographic evaluation of the ____ :
+plate
+lesion
+anisotropy
+poorly visible
+negative
+physis closed
+PT
+HP +
+cold pack +
+IFC +
+TENS +
+laser +
+LLLT +
+paraffin +
+IR +
+SWD +
+MWD +
+USD +
+Magnetic wave +
+circulator +
+ultrasound +
+ultrasound(low intensity) +
+USD(low intensity) +
+low intensity
+C-traction (BW: kg) +
+L-traction (BW: kg) +
+slow progression
+ICT(BW: kg) +
+IPT(BW: kg) +
+NK-table
+pulsed 20% duty cycle
+exercise
+manual therapy
+ESWT
+Pulley stretch +
+traction
+inform staff if any discomfort during PT
+training
+INDIBA
+eccentric training
+stretching
+cycle ergometer
+treadmill exercise
+prefer non-invasive Rx
+maintenance rehab
+Diagnosis
+Imp:
+suspicious
+acute
+chronic
+pes cavus
+epicondylopathy
+adhesive capsulitis
+golfer's elbow
+tennis elbow
+frozen shoulder
+early frozen shoulder
+De Quervain's tenosynovitis
+tear
+sprain
+strain
+grade
+plantar fasciitis
+radiculopathy
+myelopathy
+DJD
+spondylosis
+retrolisthesis
+HIVD
+spine
+syndrome
+instability
+entrapment
+osteoarthritis
+OA
+CTS
+neuropathy
+compression fx
+ITBS
+PFPS
+degeneration
+LBP
+nonspecific
+myofascial pain
+spondylolisthesis
+trigger finger
+osteoporosis
+inflammation
+pes planus
+impingement
+scoliosis
+deconditioned
+bursitis
+torticollis
+calcific tendinitis
+tendinitis
+dysfunction
+cervicogenic headache
+cervicogenic dizziness
+tenosynovitis
+enthesopathy
+tendinopathy
+functional disorder
+hallux valgus
+upper crossed syndrome
+DISI
+neurogenic claudication
+sciatica
+dislocation
+metatarsalgia
+adhesion
+arthritis
+stenosis
+Osgood-Schlatter
+non-displaced
+coccydynia
+cause to be determined
+suspected
+deformity
+neuralgia
+Haglund deformity
+compensation
+discogenic pain
+keep
+insole
+topical
+adjustment
+suggest
+refused
+insisted
+evaluation
+x-ray
+rehab
+NCS/EMG
+MRI
+education
+hydrodissection
+prolo
+structure
+disc space narrowing
+ORIF
+ROI
+certificate
+pending formal report
+relatively
+analysis
+may consider injection
+prefer not injection
 medication
-patient
-prescription
-diagnosis
-symptoms
-history
-recommendation
+NSAIDs
+Triamcinolone
+dexamethasone
+lidocaine
+HA
+PRP
+PLT
+D5W
+D15W
+D25W
+analgesics
+PRN
+QD
+HS
