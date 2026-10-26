@@ -5,7 +5,7 @@
 ![DrType demo](docs/demo.gif)
 
 
-==============
+
 ## 開始使用
 
 1. 把 `dist` 資料夾整個複製到電腦上（例如 `D:\DrType`）
