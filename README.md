@@ -61,7 +61,7 @@ A lightweight application that provides tab-autocomplete functionality designed 
 下方的「預覽」會即時顯示展開後的樣子。
 
 觸發方式：
-- **打完縮寫立即展開**（同舊版 `:*?:`）
+- **打完縮寫立即展開**
 - **縮寫後按空白／Enter／Tab 才展開**：適合縮寫可能出現在一般單字裡的情況
 
 片語存在 `Hotstrings.csv`，可以直接用 Excel 開啟、編輯。
