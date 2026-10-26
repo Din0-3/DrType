@@ -1,10 +1,11 @@
 # DrType 自動完成 + 快捷片語
 每次在診間打字的時候恨不得自己英打超快，或是又想不起那個拗口的PE該怎麼拼嗎？交給DrType!
-A lightweight application that provides tab-autocomplete functionality designed with doctors in clinic in mind
+
 
 ![DrType demo](docs/demo.gif)
 
 
+==============
 ## 開始使用
 
 1. 把 `dist` 資料夾整個複製到電腦上（例如 `D:\DrType`）
