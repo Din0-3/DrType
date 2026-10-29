@@ -64,6 +64,8 @@ namespace DrType
         {
             var result = new List<string>();
             if (string.IsNullOrEmpty(typed) || max <= 0) return result;
+            // 數字開頭（劑量、日期、20%…）不提示；L5S1、D5W 這類字母開頭的照常比對
+            if (char.IsDigit(typed[0])) return result;
             string q = typed.ToLowerInvariant();
             var hits = new List<Hit>();
             foreach (var e in entries)
