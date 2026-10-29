@@ -192,6 +192,8 @@ mid
 midline
 head
 waist
+Rt
+Lt
 Rt:  | Lt:
 anterior
 posterior
