@@ -329,7 +329,8 @@ namespace DrType
                             }
                             break;
                         case VK_RETURN:
-                            // 已經打出完整的詞（例如 with，建議是 without；不分大小寫）時，Enter 照常換行
+                            // 已經打出完整的詞（例如 with，建議是 without）時，Enter 照常換行；
+                            // 只差大小寫（打 djd，詞庫是 DJD）則和 Tab 一樣取代
                             if (cfg.AcceptEnter && !shift && !EnterMeansNewline(cfg))
                             {
                                 Accept(selected, false);
@@ -462,12 +463,12 @@ namespace DrType
             host.ShowSuggestions(suggestions, selected, first);
         }
 
-        // 使用者沒有用方向鍵另選，而且目前打的字已經是詞庫裡的詞時，Enter 交給程式換行
+        // 使用者沒有用方向鍵另選，而且目前打的字已經完全正確（含大小寫）時，Enter 交給程式換行
         private bool EnterMeansNewline(EngineConfig cfg)
         {
             if (selected != 0) return false;
             string typed = word.ToString();
-            return cfg.Words.Contains(typed) || FinalWord(cfg, typed, suggestions[0]) == typed;
+            return cfg.Words.ContainsExact(typed) || FinalWord(cfg, typed, suggestions[0]) == typed;
         }
 
         private static string FinalWord(EngineConfig cfg, string typed, string suggestion)

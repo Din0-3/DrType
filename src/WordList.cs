@@ -24,7 +24,7 @@ namespace DrType
         }
 
         private readonly Entry[] entries;
-        private readonly HashSet<string> wordSet = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        private readonly HashSet<string> wordSet = new HashSet<string>(StringComparer.Ordinal);
 
         public static readonly WordIndex Empty = new WordIndex(new string[0]);
 
@@ -52,8 +52,8 @@ namespace DrType
             get { return entries.Length; }
         }
 
-        // 不分大小寫，詞庫裡是否已有這個完整的詞
-        public bool Contains(string word)
+        // 詞庫裡是否有這個完整的詞（大小寫也要相同：打 djd 不算打完 DJD）
+        public bool ContainsExact(string word)
         {
             return wordSet.Contains(word);
         }
